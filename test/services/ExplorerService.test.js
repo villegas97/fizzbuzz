@@ -17,6 +17,6 @@ describe("Unit Test for ExplorerService", () => {
       explorers,
       "java"
     );
-    expect(names[0]).toBe("ajolonauta7");
+    expect(names[0]).toBe("ajolonauta6");
   });
 });
